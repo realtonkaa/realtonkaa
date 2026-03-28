@@ -1,43 +1,52 @@
-<div align="center">
+<h1 align="center">Hey, I'm realtonkaa 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+I'm+realtonkaa;AI+%2B+Finance+Builder;Claude+Code+Developer" alt="Typing SVG" />
+<p align="center">
+  <a href="https://github.com/realtonkaa"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=realtonkaa&style=flat-square&color=blue" />
+</p>
 
-### Building AI-powered tools for finance and developer productivity
-
----
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center"><em>Building AI-powered tools for finance and developer productivity</em></p>
 
 ---
 
-<img src="https://github-profile-trophy.vercel.app/?username=realtonkaa&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
+### 🛠 Tech Stack
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=realtonkaa&theme=radical&hide_border=true" alt="Streak Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=realtonkaa&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realtonkaa&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
-## Featured Repos
+### 📌 Featured Projects
 
-[![finance-skills-pack](https://github-readme-stats.vercel.app/api/pin/?username=realtonkaa&repo=finance-skills-pack&theme=radical&hide_border=true)](https://github.com/realtonkaa/finance-skills-pack)
-[![finance-mcp-server](https://github-readme-stats.vercel.app/api/pin/?username=realtonkaa&repo=finance-mcp-server&theme=radical&hide_border=true)](https://github.com/realtonkaa/finance-mcp-server)
-[![auth-kit](https://github-readme-stats.vercel.app/api/pin/?username=realtonkaa&repo=auth-kit&theme=radical&hide_border=true)](https://github.com/realtonkaa/auth-kit)
-[![github-profile-kit](https://github-readme-stats.vercel.app/api/pin/?username=realtonkaa&repo=github-profile-kit&theme=radical&hide_border=true)](https://github.com/realtonkaa/github-profile-kit)
+| Project | Description |
+|---------|-------------|
+| [**finance-skills-pack**](https://github.com/realtonkaa/finance-skills-pack) | Claude Code skills for financial analysis and plain-English strategy backtesting |
+| [**finance-mcp-server**](https://github.com/realtonkaa/finance-mcp-server) | 10-tool MCP server for Claude Code — market data, analysis, paper trading |
+| [**auth-kit**](https://github.com/realtonkaa/auth-kit) | One-command auth scaffolder — detects framework, scaffolds production-ready auth |
+| [**github-profile-kit**](https://github.com/realtonkaa/github-profile-kit) | Claude Code skill that generates beautiful GitHub profile READMEs |
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=realtonkaa&style=flat-square&color=blueviolet)
+<details>
+  <summary>📊 GitHub Stats</summary>
 
-</div>
+  </br>
 
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=realtonkaa&theme=dark&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realtonkaa&layout=compact&theme=dark&hide_border=true" width="40%" />
+  </p>
+
+</details>
+
+<details>
+  <summary>⚡ About Me</summary>
+
+  </br>
+
+  - 🔭 Currently working on **AI-powered developer tools**
+  - 🌱 Learning **finance + AI integration**
+  - 💬 Ask me about **Claude Code, MCP servers, Python**
+
+</details>
