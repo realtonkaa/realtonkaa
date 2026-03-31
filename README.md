@@ -1,6 +1,6 @@
 # hey, i'm abdul
 
-high school sophomore interested in AI and finance. i like building tools that solve real problems for real people -- not just demos or tutorials.
+high school sophomore interested in AI and finance. i like building tools that solve real problems for real people.
 
 most of my projects come from noticing someone struggling with something and thinking "i could probably automate that." sometimes i'm right, sometimes i learn the hard way why it's harder than it looks.
 
